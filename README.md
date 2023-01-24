@@ -12,3 +12,7 @@ Growth mindset means... blah blah blah
 - Reminder 3
 
 Link to my github portfolio: https://github.com/kassiebradshaw 
+
+## Table Of Contents
+
+- [Class 01 Notes](102-notes/class1.md)
